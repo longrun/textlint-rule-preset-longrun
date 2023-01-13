@@ -1,16 +1,16 @@
 {
   "name": "textlint-rule-preset-longrun",
   "version": "1.0.0",
-  "description": "ロンランで執筆する記事のためのテキスト校正ルール",
+  "description": "ロンランで執筆する記事のためのテキスト校正ルールとGitHub Actions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "textlint": "^12.1.1",
+    "textlint": "^12.5.1",
     "textlint-rule-ja-space-around-link": "^2.2.0",
     "textlint-rule-no-dropping-the-ra": "^3.0.0",
     "textlint-rule-preset-ja-spacing": "^2.2.0",
